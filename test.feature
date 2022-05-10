@@ -1,4 +1,4 @@
-Feature: Checking search
+Feature: Checking search ya.ru
 
   Scenario: Сheck empty field in search results
 
